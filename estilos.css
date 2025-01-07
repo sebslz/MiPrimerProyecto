@@ -31,13 +31,13 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: #000000;
     padding: 10px 15px;
     display: inline-block;
 }
 
 nav ul li a:hover {
-    background-color: #215e5c;
+    background-color: #19d700;
     border-radius: 5px;
 }
 
@@ -46,14 +46,14 @@ section {
     margin: 10px auto;
     max-width: 800px;
     background: white;
-    border: 1px solid #352020;
+    border: 1px solid #000000;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 footer {
     text-align: center;
-    background-color: #616f41;
+    background-color: #7ba320;
     color: white;
     padding: 10px;
     margin-top: 20px;
